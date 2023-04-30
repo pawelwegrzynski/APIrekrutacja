@@ -1,0 +1,4 @@
+Baza danych rekrutacja
+login: rekrutacja
+hasło:  xfWwOxoMTaBU1xa
+baza: rekzadanie
